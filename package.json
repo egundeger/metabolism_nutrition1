@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Metabolizma, glikoliz, TCA döngüsü ve glikojen metabolizması konularında bilginizi test etmek için interaktif bir test uygulaması.",
   "private": true,
-  "homepage": "https://egundeger.github.io/metabolism_nutrition",
+  "homepage": "https://egundeger.github.io/metabolism_nutrition1",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
